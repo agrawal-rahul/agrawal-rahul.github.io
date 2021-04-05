@@ -29,3 +29,13 @@
 - C++ Concurrency In Action - Anthony Williams
 - Advanced C++ Metaprogramming - Davide Di Gennaro
 - Large Scale C++ volume I, Process and architecture - John Lakos
+- Introduction to Algorithms - Thomas H. Corman
+- Algorithms - Robert Sedgewick and Kevin Wayne
+- The Algorithm Design Manual - Steve S. Skiena
+- Algorithm for Interviews
+- Algorithm in Nutshell
+- Algorithm Design - Kleinberg and Tardos
+- Introduction to Algorithms: A Creative Approach
+- The Design and Analysis of Algorithms
+- Data Structures and Algorithms - Aho, Ullman and Hopcroft
+- Python Algorithms: Mastering Basic Algorithms in the Python Language
