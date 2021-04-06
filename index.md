@@ -41,3 +41,11 @@
 - Python Algorithms: Mastering Basic Algorithms in the Python Language
 - Fundamentals of Computer Algorithms - Ellis Horowitz, Sartaj Sahni
 - Algorithms - Dasgupta, Papadimitriou, Vazirani
+- Fundamentals of Computer Algorithms 2nd - Sahni Horowitz
+- Introduction to the Design and Analysis of Algorithms - Anany Levitin
+- Design and Analysis of Algorithms - S Sridhar
+- Algorithm Design: Foundations, Analysis and Internet Examples - Michael T Goodrich and Roberto Tamassia
+- Design and Analysis of Algorithms - Dave
+- Design And Analysis of Algorithms - Shewta Bajaj Mundra
+- Introduction to Design and Analysis of Algorithms - Anany Levitin
+- An Introduction to Parallel Computing: Design and Analysis of Algorithms - GRAMA
