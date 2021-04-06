@@ -39,3 +39,4 @@
 - The Design and Analysis of Algorithms
 - Data Structures and Algorithms - Aho, Ullman and Hopcroft
 - Python Algorithms: Mastering Basic Algorithms in the Python Language
+- Fundamentals of Computer Algorithms - Ellis Horowitz, Sartaj Sahni
